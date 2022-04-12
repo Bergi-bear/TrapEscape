@@ -1,0 +1,42 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 2
+{
+Force 1
+}
+
+STRING 3
+{
+TrapEscape
+}
+
+STRING 4
+{
+Any
+}
+
+STRING 5
+{
+Nondescript
+}
+
+STRING 6
+{
+Unknown
+}
+
+STRING 9
+// Units: h000 (Blue Dog), Name (Name)
+{
+Blue Dog
+}
+
+STRING 10
+// Units: h001 (Green Snake), Name (Name)
+{
+Green Snake
+}
+
